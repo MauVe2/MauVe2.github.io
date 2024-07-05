@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #F2EDDF;
 }
 .greetings{
     font-size: 6rem;
@@ -25,7 +25,7 @@ body{
         text-shadow: 0 0 12px #fbff00, 0 0 50px #fbff00, 0 0 100px #fbff00;
     }
     10%, 90%{
-        color: #696565;
+        color: #025959;
         text-shadow: none;
     }
 }
