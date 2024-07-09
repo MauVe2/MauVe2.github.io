@@ -93,7 +93,7 @@ body{
   
   /* Efecto de resplandor al pasar el cursor sobre el botón */
   .button button:hover {
-    background-color: rgb(255, 123, 0); /* Cambia el color de fondo al pasar el mouse a naranja */
+    background-color: #ff9100; /* Cambia el color de fondo al pasar el mouse a naranja */
     box-shadow: 0 0 10px #f2c12e, 0 0 20px #f2c12e, 0 0 30px #f2c12e; /* Efecto de resplandor amarillo */
   }
   
